@@ -1,0 +1,4 @@
+g++ -ansi -Wall -g -c router.cpp
+g++ -ansi -Wall -g -c RouterRunner.cpp
+g++ -ansi -Wall -g -o router.out router.o RouterRunner.o  
+clang: warning: argument unused during compilation: '-ansi'

@@ -1,0 +1,116 @@
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-ansi
+	-Wall
+	-g
+	-c
+	router.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-ansi
+	-Wall
+	-g
+	-c
+	router.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-ansi
+	-Wall
+	-g
+	-c
+	router.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-ansi
+	-Wall
+	-g
+	-c
+	router.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-ansi
+	-Wall
+	-g
+	-c
+	RouterRunner.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-ansi
+	-Wall
+	-g
+	-c
+	RouterRunner.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-ansi
+	-Wall
+	-g
+	-c
+	RouterRunner.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-ansi
+	-Wall
+	-g
+	-c
+	RouterRunner.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-ansi
+	-Wall
+	-g
+	-o
+	router.out
+	router.o
+	RouterRunner.o
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-ansi
+	-Wall
+	-g
+	-o
+	router.out
+	router.o
+	RouterRunner.o
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-ansi
+	-Wall
+	-g
+	-o
+	router.out
+	router.o
+	RouterRunner.o
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/rahmanraza/Desktop/ecs60/p5
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-ansi
+	-Wall
+	-g
+	-o
+	router.out
+	router.o
+	RouterRunner.o
+
